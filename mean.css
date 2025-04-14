@@ -1,0 +1,32 @@
+h1{
+    background-color: aqua;
+    color: rgb(18, 18, 19);
+    border-radius: 40px;
+    text-align: center;
+    border: 2px solid yellow;
+
+}
+.n1{
+    color: green;
+}
+h2{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+
+.n4{
+    background-color: yellow;
+    color: rgb(12, 12, 12);
+}
+.n5{
+    background-color: green;
+    color: rgb(25, 25, 26);
+}
